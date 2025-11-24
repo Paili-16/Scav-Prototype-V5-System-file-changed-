@@ -1,7 +1,7 @@
 The System file changed
 
-Speed Time System :Speed fasting timeX5 about use to skip changing to turn speed slow motion timeX5, And speed very fasting timeX20 changing be speed stop time to pause.
-Just don't need any skip time but good thing can slow motion and pause.
+Speed Time System :Speed fasting timeX5 about use to skip changing to turn speed slow motion timeX5, And speed very fasting timeX20 changing be speed stop time to pausing.
+Just don't need any skip time but good thing can slow motion and pausing.
 
 If the mod is Multiplayer Coop to connect then won't be use any speed time and afraid will get glitch or crash... So just make sure.
 
